@@ -1,0 +1,20 @@
+# Environment variables and API keys
+.env
+.env.local
+.env.example
+
+# Saved local state
+saved_board_state.json
+promise_tracker.sqlite3
+promise_tracker.sqlite3-shm
+promise_tracker.sqlite3-wal
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Streamlit
+.streamlit/
